@@ -138,11 +138,41 @@
 
 
 //reduce right
-var number=[10,15,25,40]
-       function myfunc(total,number) {
-               return total-number     
-       }
-        console.log(number.reduceRight(myfunc));
-       console.log(number);
+// var number=[10,15,25,40]
+//        function myfunc(total,number) {
+//                return total-number     
+//        }
+//         console.log(number.reduceRight(myfunc));
+//        console.log(number);
      
+
+// var arr =['act','jio','airte']
+// console.log(arr);
+// var arr1=['idea']
+// console.log(arr.concat(arr1));//combine two or more array and add the element at end of an array
+// console.log(arr); //not modify
+//return array
+
+//slice(start index,end index)
+// var arr=['leads','products','contacts','part number','name']
+// console.log(arr);
+// console.log(arr.slice(1,3));
+// console.log(arr);//not modify
+//return fragment of an array
+
+//every
+// var arr=['name','product','contact','part']
+// console.log(arr.every((element)=>{
+//         return  element< 2   //false   
+// }))
+// console.log(arr);//not modify
+//return boolean
+
+//
+// var arr=['1','6','4']
+// console.log(arr.some((element)=>{
+//         return  element< 2   //true  
+// }))
+// console.log(arr);//not modify
+
 

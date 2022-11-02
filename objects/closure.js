@@ -3,7 +3,7 @@ console.log(teamname);
 
 function display_teamname(){
   var  teamplayers=25
-function display_teamplayes(){
+function display_teamplayers(){
   console.log(teamplayers);
   
      
@@ -11,4 +11,4 @@ function display_teamplayes(){
 
 display_teamname()
 }
-display_teamplayes()
+//display_teamplayers()

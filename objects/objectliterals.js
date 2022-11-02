@@ -17,8 +17,8 @@ console.log(mobile);
 
 //adding prop to  an object
 
-//mobile.colour="black";
-//console.log(mobile);
+// mobile.colour="black";
+// console.log(mobile);
 
 //delete prop
 
@@ -27,13 +27,13 @@ console.log(mobile);
 
 
 //printing object inside an object
-//console.log(mobile["config"]);
-//console.log(mobile);
+// console.log(mobile["config"]);
+// console.log(mobile);
 
 
 //printing particular value of an array
-// mobile.supp=["audiocalls","videocalls"]
-// console.log(mobile);
+mobile.supp=["audiocalls","videocalls"]
+console.log(mobile);
 
 //printing particular prop from an object
 //console.log(mobile.config.ram);

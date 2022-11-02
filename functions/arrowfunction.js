@@ -9,4 +9,4 @@ var sum=(a,b)=>{
 return "b is greater"
     }
 }
-console.log(sum(3,4));
+console.log(sum(3,4)); 
